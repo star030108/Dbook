@@ -1,0 +1,17 @@
+#modal_right {
+    float: right;
+    width: 47%;
+    height: 47%;
+    margin: 10px;
+}
+
+#modal_left {
+    float: left;
+    width: 47%;
+    height: 47%;
+    margin: 10px;
+}
+
+#modal_btn {
+    margin-left: 200px;
+}

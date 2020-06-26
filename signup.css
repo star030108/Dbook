@@ -1,0 +1,41 @@
+#dbook_signup {
+    margin: 10px;
+    width: 500px;
+    padding: 10px;
+
+    width: 410px; 
+    position: absolute; 
+    left: 50%; 
+    top: 50%; 
+    transform: translate(-50%, -50%);
+
+    border: solid 1px #ccc;
+    background-color: #eee;
+    border-radius: 8px;
+}
+
+#dbook_signup .submit-btn {
+    font-size: 18px;
+    font-weight: bold;
+
+    border-radius: 8px;
+    padding: 8px;
+    margin: 20px auto;
+    display: block;
+}
+
+#dbook_signup .login-item {
+    margin: 20px 0 0 0;
+}
+
+#dbook_signup .login-item-text {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+
+#dbook_signup .login-input {
+    width: 280px;
+    text-indent: 5px;
+}
+
